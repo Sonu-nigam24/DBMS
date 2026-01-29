@@ -5,8 +5,8 @@ This repository contains my Database Management Systems (DBMS) assignment, creat
 ## 🛠️ Technologies Used
 
 Database: Oracle <br>
-Language: SQL
-Tools: SQL*Plus / Oracle SQL Developer 
+Language: SQL <br>
+Tools: SQL*Plus / Oracle SQL Developer <br>
 Platform: GitHub
 
 
